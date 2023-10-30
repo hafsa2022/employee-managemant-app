@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Hafsa",
+      "lastName": "El Akhdar",
+      "email": "hafsa.elakhdar@etu.uae.ac.ma",
+      "dob": "2023-10-22T23:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "FST",
+      "experience": 2,
+      "package": 3,
+      "id": 3
+    },
+    {
+      "firstName": "Merr",
+      "lastName": "El Akhdar",
+      "email": "hafsa.elakhdar@etu.uae.ac.ma",
+      "dob": "2023-10-02T23:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "FST",
+      "experience": 2,
+      "package": 6,
+      "id": 4
+    }
+  ]
+}
